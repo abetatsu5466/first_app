@@ -1,0 +1,2 @@
+class Posut < ApplicationRecord
+end
